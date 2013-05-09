@@ -7,7 +7,7 @@ I like making stuff. In middle school, I scratched together games with Visual ba
 I’m looking to join a team that follows at least 8 of the 12 measures on The Joel Test http://www.joelonsoftware.com/articles/fog0000000043.html
 
 
-###Capstone Projects
+###Capstone Project
 
 Dish.io
 
@@ -15,14 +15,6 @@ Single page app on Backbone with home-brewed authentication. Allows a user to se
 
 Complex ActiveRecord associations, Backbone-Relational models, filtered and sorted collections, JSON Rails API, Twitter Bootstrap, SCSS, CSS3 transitions, auto-disappearing flash notices and sliding forms with JQuery, seamless data updates with AJAX, avatars with Paperclip, namespaced Javascript, and DRY view elements through custom helpers.
 https://github.com/romangurovich/dish
-
-
-GoOutside
-
-A RESTful Rails app that serves a subset of people who’d otherwise be using Meetup.com. As an organizer for a Capture The Flag group with 600+ members, I always wanted a platform better suited to hosting outdoor activities. Now I’m building it.
-
-GoogleMaps API, Devise for authentication, CarrierWave for images, and a bunch of DRY Rails goodness with my own checkbox tag helper in the views, and more elegant templating with HAML. Snatches of CoffeeScript may be found on the client-side for dynamic forms.
-https://github.com/romangurovich/go-outside
 
 
 ###Skills
@@ -37,18 +29,14 @@ https://github.com/romangurovich/go-outside
 * API construction
 * Cookies, Sessions, Authentication
 * Testing (Rspec, Capybara, Factory Girl)
-
-Javascript
-Backbone
-Backbone-Relational
-EJS
-JQuery
-AJAX
-CoffeeScript
-Underscore
-
-Front-End
-Bootstrap
-HTML5
-CSS3
-SCSS
+* Backbone
+* Backbone-Relational
+* EJS
+* JQuery
+* AJAX
+* CoffeeScript
+* Underscore
+* Bootstrap
+* HTML5
+* CSS3
+* SASS/SCSS
