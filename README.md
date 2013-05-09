@@ -1,4 +1,2 @@
-student-bios
+Student Biographies
 ============
-
-Student biographies for hiring day
