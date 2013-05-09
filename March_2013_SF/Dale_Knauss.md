@@ -21,6 +21,8 @@ I look forward to meeting you on Demo Day!
 Checkout my [LinkedIn](http://www.linkedin.com/in/dalek/) and [GitHub](https://github.com/daleknauss) pages.
 
 ### Projects
+[Easy Analytics](http://easy-analytics.herokuapp.com/) - Easy Analytics clones much of the basic functionality of Google Analytics. Currently you can manage analytics for multiple websites, using a small script I've created. It's interface aims to provide a decent overview of how users interact with a site. Future releases will allow for A/B split testing and conditional transactional emails. See the [GitHub repository](https://github.com/daleknauss/Easy-Analytics.git) for more info.
+
 [Code Notes](http://codenotes.herokuapp.com/) - CodeNotes aims to make taking and organizing notes about programming easier. You can break notes down into sortable key concepts, code samples (typed through an on browser code editor with code highlighting), and todos for easy searching. See the [GitHub repository](https://github.com/daleknauss/Code-Notes) for more info.
 
 ### Programming Skills
