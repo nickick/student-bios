@@ -5,7 +5,7 @@ After earning my B.A.* one year ago, I realized the companies and organizations 
 (*Penn State, honors in anthropology, neuroscience minor)
 
 ###Capstone Project
-<a href="language-learning-commons.herokuapp.com">LanguageLearningCommons</a>
+<a href="http://language-learning-commons.herokuapp.com">LanguageLearningCommons</a>
 
 My project enables people learning natural languages to connect to each other. Native speakers of a language teach those learning it, primarily by correcting writing samples.
 
