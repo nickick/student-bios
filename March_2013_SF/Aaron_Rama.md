@@ -25,8 +25,9 @@ Features:
 * Polymorphic Likes
 * Photo uploading through Filepicker.io / Custom image editing through Aviary
 * Events and Pages
-* News Feed
+* News Feed with infinite scroll
 * Messaging / Chat ( Realtime )
+* Realtime Notifications
 
 ###Skills:
 * Ruby
@@ -35,7 +36,7 @@ Features:
   * ActiveRecord
 * Custom Authentication and Devise
 * Integration with REST web APIs
-* Realtime through FAYE
+* Realtime through Pusher
 * HTML5 & CSS3
 * Bootstrap
 * Javascript
