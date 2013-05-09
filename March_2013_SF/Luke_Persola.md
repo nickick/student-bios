@@ -9,7 +9,7 @@ After earning my B.A.* one year ago, I realized the companies and organizations 
 
 My project enables people learning natural languages to connect to each other. Native speakers of a language teach those learning it, primarily by correcting writing samples.
 
-I created LanguageLearningCommons as a standard CRUD Rails app. The system for correcting "notes" is client-side (Backbone.js). I used Devise for authentication and the JavaScript library Rangy. <a href="language-learning-commons.herokuapp.com">Take a look.</a>
+I created LanguageLearningCommons as a standard CRUD Rails app. The system for correcting "notes" is client-side (Backbone.js). I used Devise for authentication and the JavaScript library Rangy. <a href="http://language-learning-commons.herokuapp.com">Take a look.</a>
 
 ###Skills:
 
