@@ -10,7 +10,7 @@ LinkedIn - Github
 
 ###Capstone Project
 
-Peek
+Peek (http://peekapp.herokuapp.com/)
 
 Peek lets you explore the world through photos to see what’s happening right now.  
 Click the map to see recent photos from that area
